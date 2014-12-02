@@ -1,5 +1,5 @@
-Open Civic Data API Python Wrapper
-==================================
+Open Civic Data API Python Wrappe
+=================================
 
 This module provides the `opencivicdata.package` module, a set of bindings
 to work with the
